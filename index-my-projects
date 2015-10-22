@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+
+<body>
+<header>
+    <h1>FengJiang</h1>
+    <h5>A Web Development Student</h5>
+    <nav>
+        <ul>
+            <li><a href="index.html">Portfolio</a></li>
+            <li><a href="about-me.html">About Me</a></li>
+        </ul>
+    </nav>
+</header>
+<div>
+    <article>
+        <h3>list of my projects</h3>
+        <p>Currently I am working on Semantic Tags</p>
+        <section>
+            <ul id="projects">
+                <li>
+                    <a href="#">
+                        <img src="img/p01.jpg"  width="20px", height="20px"/>
+                        <p>Semantic Tags</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <img src="img/p02.jpg"width="20px", height="20px"/>
+                        <p>project2</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <img src="img/p03.jpg" width="20px", height="20px"/>
+                        <p>project3</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <img src="img/p04.jpg"width="20px", height="20px"/>
+                        <p>project4</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <img src="img/p05.jpg" width="20px", height="20px"/>
+                        <p>project5</p>
+                    </a>
+                </li>
+            </ul>
+        </section>
+        </article>
+        <footer>
+            <p>Posted by: FJ</p>
+            <address>
+                Written by <a href="mailto:jfnever@hotmail.com">Feng Jiang</a>.<br/>
+                Visit me at:<br/>
+                Lyndhurst ln,plano<br/>
+                Texas 75025<br/>
+                USA
+            </address>
+        </footer>
+</div>
+</body>
+</html>
+
